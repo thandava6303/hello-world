@@ -1,4 +1,4 @@
-<h1> Rajesh Anna Collection King   </h1>
-<h2>In Hnk and PP</h2>
-<h2> Big-financer in wgl & Hnk</h2>
+<h1> Karthik's mens beauty parlour & saloon </h1>
+<h2>wadapally Road Hanamkonda</h2>
+<h2> Prop: Mutyala Bharama</h2>
 
