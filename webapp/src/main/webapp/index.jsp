@@ -1,3 +1,3 @@
 <h1> welcome to devops course </h1>
-<h2>new batch from april 11th</h2>
+<h2>new batch for aws devops starts from today</h2>
 
